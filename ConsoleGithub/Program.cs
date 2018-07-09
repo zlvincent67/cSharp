@@ -11,7 +11,6 @@ namespace ConsoleGithub
         static void Main(string[] args)
         {
             Console.WriteLine("laozhang is a good man");
-            Console.WriteLine("laozhang is a good man");
         }
     }
 }

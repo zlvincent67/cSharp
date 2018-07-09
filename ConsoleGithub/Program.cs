@@ -12,6 +12,7 @@ namespace ConsoleGithub
         {
             Console.WriteLine("laozhang is a good man");
             Console.WriteLine("laozhang is a good man");
+            Console.WriteLine("laozhang is a good man");
         }
     }
 }
